@@ -15,6 +15,8 @@
 * - status.h The header file, which consists of the function declaration
 * - status.c The main program, where the logic is carried out
 *
+* Repo available under:  https://github.com/CoQuarksde/c-statistics-embedded.git/
+*
 * This course approaches a peer-graded assignment methodology.
 * The platform for content mediation and interaction is coursera
 ************************************************************************************/
